@@ -14,12 +14,12 @@ Run port-scanner.py on terminal. Use [-t] parameter to set a target to scan.
 
 Python 3.x
 
-#### Upcoming
+### Upcoming
 
-- Add a bannergrabbing function
+~~Add a banner grabbing function~~ Done
 
 - Optimize scanning speed
 
-### Disclaimer
+#### Disclaimer
 
 Use this script on a controlled environment, don't use it on unauthorized hosts.
