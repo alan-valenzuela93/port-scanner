@@ -19,6 +19,7 @@ Python 3.x
 ~~Add a banner grabbing function~~ Done
 
 - Optimize scanning speed
+- Add UDP scan option
 
 #### Disclaimer
 
