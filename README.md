@@ -8,7 +8,7 @@ Run port-scanner.py on terminal. Use [-t] parameter to set a target to scan.
 
 ### Example
 
-> python3 port-scanner.py -t <http://localhost>
+> python3 port-scanner.py -t scanme.nmap.org
 
 ### Requirements
 
