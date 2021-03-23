@@ -1,6 +1,6 @@
 # TCP port scanner
 
-Scan hosts for open ports.
+Scan hosts for open ports and services.
 
 ## Usage
 
